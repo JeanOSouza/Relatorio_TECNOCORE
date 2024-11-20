@@ -2,7 +2,9 @@
 <img src="./logo.jpg">
 </p>
 <p align="center">Figura 1- Logo da Empresa</p>
-# Desafio:
+
+## Desafio:
+
 Arquitetar e sistematizar um protótipo de software para uma loja online de roupas, com foco total em uma plataforma, intuitiva e segura, além de garantir alto atendimento a clientes de todo o Brasil.
 Contexto:
 Na atualidade a loja de roupas fitness LUMINI não tem um sistema digital visando a ampliação de vendas e a facilidade da busca por produtos online. Todo o processo de venda é realizado de forma manual, na loja, o que torna a experiência do cliente limitada. A loja tem uma ênfase nas dificuldades de catálogos de promoções de produtos, a falta dessa aplicação online impede clientes de realizarem compras rápidas práticas e seguras.
