@@ -3,11 +3,7 @@
 </p>
 <p align="center">Figura 1- Logo da Empresa</p>
 
-<<<<<<< Updated upstream
-# Desafio:
-=======
-## Desafio
->>>>>>> Stashed changes
+# Desafio
 
 Arquitetar e sistematizar um protótipo de software para uma loja online de roupas, com foco total em uma plataforma, intuitiva e segura, além de garantir alto atendimento a clientes de todo o Brasil.
 
