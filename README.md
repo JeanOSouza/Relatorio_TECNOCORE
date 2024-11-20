@@ -53,7 +53,7 @@ Maria Cecília nunca mais precisou se preocupar em encontrar um tempo para ir à
 <p align="center"> 
 <img src="./Marcela.jpg">
 </p>
-<p align="center">Figura 2- Maria Cecilia </p>
+<p align="center">Figura 3- Marcela </p>
 
 Marcela tem 25 anos e mora em Belo Horizonte, uma cidade que combina a vibração de um grande centro urbano com a tranquilidade de um ambiente acolhedor. Solteira e dedicada à sua graduação em Educação Física, ela encara cada desafio da vida universitária com determinação. A rotina de estudos intensos demanda muito de seu tempo e energia, mas Marcela tem um grande aliado: sua paixão por um estilo de vida saudável e ativo.
 Desde pequena, sempre foi apaixonada por esportes e pelo cuidado com o corpo. Com o tempo, essa paixão se transformou em um compromisso, e agora, no curso de Educação Física, ela sente que está no lugar certo para explorar ainda mais esse universo. Contudo, a vida universitária não é simples. As provas, os projetos e os compromissos acadêmicos muitas vezes exigem horas de dedicação, mas Marcela aprendeu a arte de equilibrar suas responsabilidades com seus momentos de lazer e autocuidado.
@@ -96,7 +96,7 @@ Levando em consideração os requisitos e as referências fornecidas, criamos um
 <p align="center"> 
 <img src="pro.jpg">
 </p>
-<p align="center">Figura 7- Prototipo</p>
+<p align="center">Figura 6- Prototipo</p>
 
 O wireframe desenvolvido visa oferecer uma visão estruturada e funcional do site, priorizando uma experiência de navegação prática e objetiva para os usuários. A página inicial destaca produtos em promoção, facilitando o acesso às ofertas e incentivando a interação do visitante. O menu de navegação foi projetado para permitir que os usuários explorem facilmente diferentes categorias, com redirecionamento para páginas específicas onde filtros avançados, como tamanho, cor e faixa de preço, podem ser aplicados. As imagens fornecidas exemplificam a disposição dos elementos e o caminho de navegação, assegurando uma experiência de uso intuitiva e eficiente.
 
@@ -105,7 +105,7 @@ O wireframe desenvolvido visa oferecer uma visão estruturada e funcional do sit
 <p align="center"> 
 <img src="pro.jpg">
 </p>
-<p align="center">Figura 6- Prototiopo</p>
+<p align="center">Figura 7- Prototiopo</p>
 
 Protótipo de alta fidelidade:
 Empregamos o Figma como ferramenta principal para desenvolver protótipos interativos do sistema, com o objetivo de transformar as estruturas iniciais dos wireframes, em soluções mais claras e dinâmicas. Esse processo permite refinar os detalhes, melhorar a usabilidade e ajustar a interface, oferecendo uma experiência mais fluida e agradável para o usuário final.
