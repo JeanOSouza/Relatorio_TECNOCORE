@@ -3,17 +3,23 @@
 </p>
 <p align="center">Figura 1- Logo da Empresa</p>
 
+<<<<<<< Updated upstream
 # Desafio:
+=======
+## Desafio
+>>>>>>> Stashed changes
 
 Arquitetar e sistematizar um protótipo de software para uma loja online de roupas, com foco total em uma plataforma, intuitiva e segura, além de garantir alto atendimento a clientes de todo o Brasil.
 
-# Contexto:
+# Contexto
 
 A loja de roupas fitness LUMINI, atualmente, enfrenta desafios significativos no processo de vendas devido à ausência de um sistema digital adequado para o gerenciamento de seus produtos e a interação com seus clientes. O processo de vendas ainda é totalmente manual, realizado dentro da loja física, o que limita a experiência de compra dos clientes e dificulta a expansão do alcance da marca.
 A dona da LUMINI, uma empreendedora apaixonada por moda fitness e pelo bem-estar dos seus clientes, começou suas operações de forma pequena, inicialmente vendendo suas roupas por meio de plataformas informais como o WhatsApp. Essa abordagem, embora tenha funcionado no início, não é mais suficiente para acompanhar o crescimento do mercado e as novas demandas dos consumidores que buscam praticidade e rapidez ao realizar suas compras.
 Nesse contexto, surge a oportunidade de implementar melhorias substanciais no processo de vendas online por meio de uma parceria com a empresa TECNOCORE, especializada em soluções digitais. A TECNOCORE pode desenvolver uma plataforma de e-commerce personalizada que tornará o processo de compra mais simples, rápido e seguro para os clientes. Um sistema de catálogo bem estruturado permitirá que os consumidores encontrem facilmente os produtos, aproveitem promoções e realizem suas compras sem complicação, diretamente de seus dispositivos móveis ou desktops.
 Essa transição para o digital não só melhorará a experiência do cliente, mas também permitirá à LUMINI ampliar seu alcance, aumentar as vendas e fidelizar seus clientes. A automação das vendas online também possibilitará um controle mais eficiente do estoque e das entregas, otimizando os processos internos da loja. Com o suporte da TECNOCORE, a LUMINI poderá se destacar no mercado competitivo de roupas fitness, oferecendo aos seus clientes uma experiência de compra moderna e de alta qualidade.
 O futuro da LUMINI, com a integração digital, promete ser mais dinâmico, com novas oportunidades de expansão e inovação no setor de moda fitness.
+
+# Storytelling
 
 ## WHY?
 
@@ -70,10 +76,14 @@ Com o objetivo de compreender as necessidades e os desafios dos usuários, coloc
 </p>
 <p align="center">Figura 4- Mapa de Empatia da Maria Cecilia</p>
 
+Maria Cecília busca praticidade nas compras online de roupas de treino, influenciada por propagandas sobre tecnologias nos tecidos e recomendações de colegas sobre conforto e durabilidade. Com uma rotina intensa, ela tem pouco tempo para pesquisar e valoriza a agilidade nas compras. Ela troca informações sobre novidades com amigos e ainda considera importante experimentar as roupas antes de comprar, priorizando qualidade, conforto e aparência. Além disso, deseja equilibrar uma vida saudável com mais tempo para a família.
+
 <p align="center"> 
 <img src="5.jpg">
 </p>
 <p align="center">Figura 5- Mapa de Empatia da Marcela</p>
+
+Uma universitária de Educação Física de BH, reflete suas principais preocupações e influências. Ela enfrenta a dificuldade de conciliar os estudos com a prática de atividades físicas, devido à falta de tempo. Ao mesmo tempo, está constantemente atualizada sobre as últimas tendências em saúde e fitness, tanto por meio de suas interações com colegas e professores quanto pelas redes sociais e lojas de roupas de academia. Embora tenha acesso a novas roupas e acessórios de treino, ela enfrenta o desafio de encontrar opções acessíveis e confortáveis. Marcela organiza sua rotina entre estudos, exercícios e lazer, lidando com a pressão e a ansiedade relacionadas a essa conciliação.
 
 ## Identidade Visual
 
@@ -94,7 +104,7 @@ Levando em consideração os requisitos e as referências fornecidas, criamos um
 
 O wireframe desenvolvido visa oferecer uma visão estruturada e funcional do site, priorizando uma experiência de navegação prática e objetiva para os usuários. A página inicial destaca produtos em promoção, facilitando o acesso às ofertas e incentivando a interação do visitante. O menu de navegação foi projetado para permitir que os usuários explorem facilmente diferentes categorias, com redirecionamento para páginas específicas onde filtros avançados, como tamanho, cor e faixa de preço, podem ser aplicados. As imagens fornecidas exemplificam a disposição dos elementos e o caminho de navegação, assegurando uma experiência de uso intuitiva e eficiente.
 
-# A segunda página da prototipação:
+# A segunda página da prototipação
 
 <p align="center"> 
 <img src="pro.jpg">
@@ -103,11 +113,13 @@ O wireframe desenvolvido visa oferecer uma visão estruturada e funcional do sit
 
 Protótipo de alta fidelidade:
 Empregamos o Figma como ferramenta principal para desenvolver protótipos interativos do sistema, com o objetivo de transformar as estruturas iniciais dos wireframes, em soluções mais claras e dinâmicas. Esse processo permite refinar os detalhes, melhorar a usabilidade e ajustar a interface, oferecendo uma experiência mais fluida e agradável para o usuário final.
-(PROTOTIPO DE ALTA FIDELIDADE)
+
+<a href="https://www.figma.com/proto/vEHkzU0tXlgkPKdtVwk8MA/Untitled?node-id=86-29&node-type=canvas&t=GHpChBIGIKYDoDcO-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A29">Prototipo Figma</a>
+
 Para que a experiência do cliente com o protótipo seja melhor, ao entrar no link o cliente será redirecionado para uma aba com a prototipação completa.
 (VIDEO EXPLICATIVO DO PROTOTIPO)
 
-# Conclusão:
+# Conclusão
 
 Com esta iniciativa, concluímos o Projeto Integrador, coordenado pela professora e mentora Cristiane Aparecida Lana.
 Iniciamos o projeto com a proposta de um projeto para atender uma cliente dona de loja de roupa de academia, o Projeto de Integrador nos desafio e nos motivou a buscar conhecimentos nunca visto antes, instigando o trabalho em equipe organizado por uma empresa fictícia que demos o nome TECNOCORE, o projeto nos ajudou a desenvolver um conhecimento do que é um dia a dia de uma equipe de desenvolvimento, desde a documentação até a etapa de prototipação do sistema desenvolvido.
@@ -115,12 +127,12 @@ Durante o desenvolvimento do projeto, uma das experiências mais enriquecedoras 
 Cada um foi capaz de compreender mais profundamente as responsabilidades e desafios enfrentados pelos outros, o que ajudou a fortalecer a equipe como um todo. A troca constante de informações, a adaptabilidade e o foco no resultado comum garantiram que o projeto não apenas atingisse suas metas, mas também criasse um ambiente de trabalho mais colaborativo e eficiente, essencial para o sucesso em um mundo empresarial cada vez mais dinâmico e interconectado.
 Em resumo, a integração entre os diferentes cargos foi um dos maiores diferenciais do projeto. A colaboração efetiva entre CEO, Scrum Master, Product Owner, Analista de Sistemas e Designer não só contribuiu para o sucesso do projeto, mas também para o crescimento coletivo da equipe, criando um ambiente de aprendizado contínuo e alinhamento estratégico. A experiência foi uma demonstração clara de como o trabalho conjunto, respeitando as competências de cada um, pode gerar resultados excepcionais e promover uma cultura organizacional mais sólida e preparada para os desafios futuros.
 
-# Projeto foi desenvolvido:
+# Projeto foi desenvolvido
 
-## Artur Trevizano, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
+### Artur Trevizano, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
 
-## Flavio Gabriel, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
+### Flavio Gabriel, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
 
-## João Victor Ferreira, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
+### João Victor Ferreira, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
 
-## Victor Ramos Cordeiro, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA.
+### Victor Ramos Cordeiro, Estudante de Analise e Desenvolvimento de Sistema da UNIVIÇOSA. <a href="https://github.com/victor-rc1">Github</a>
