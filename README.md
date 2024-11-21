@@ -95,9 +95,18 @@ Maria Cecília busca praticidade nas compras online de roupas de treino, influen
 
 Uma universitária de Educação Física de BH, reflete suas principais preocupações e influências. Ela enfrenta a dificuldade de conciliar os estudos com a prática de atividades físicas, devido à falta de tempo. Ao mesmo tempo, está constantemente atualizada sobre as últimas tendências em saúde e fitness, tanto por meio de suas interações com colegas e professores quanto pelas redes sociais e lojas de roupas de academia. Embora tenha acesso a novas roupas e acessórios de treino, ela enfrenta o desafio de encontrar opções acessíveis e confortáveis. Marcela organiza sua rotina entre estudos, exercícios e lazer, lidando com a pressão e a ansiedade relacionadas a essa conciliação.
 
-## Identidade Visual
+# Identidade Visual
 
 Para a identidade visual do sistema usamos a própria logo usada pela empresa LUGIMI e adaptamos com as paletas de cores desejadas.
+
+# Requisitos
+
+Para criar um e-commerce que atendesse às necessidades da Lumini e ao mesmo tempo proporcionasse uma experiência de compra excelente para as clientes, a Tecnocore focou em dois tipos essenciais de requisitos: funcionais e não funcionais. Cada escolha foi feita com base nas necessidades do negócio, no público-alvo e nas melhores práticas do mercado digital.
+
+<p align="center"> 
+<img src="./tabelasderequisitos-_1_.jpg">
+</p>
+<p align="center">Figura 5- Mapa de Empatia da Marcela</p>
 
 # Wireframe
 
