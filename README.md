@@ -17,6 +17,22 @@ O futuro da LUMINI, com a integração digital, promete ser mais dinâmico, com 
 
 # Storytelling
 
+Gabriela Dini, apaixonada pelo universo fitness. Desde cedo, ela sempre acreditou que a prática de exercícios não era apenas uma forma de melhorar a saúde, mas uma maneira de transformar a vida das pessoas. E foi com esse espírito de transformação que ela fundou sua loja Lumini.
+
+A Lumini nasceu como um pequeno espaço físico, onde Gabriela oferecia roupas de academia de qualidade, com um toque de estilo único e conforto. Ela conhecia o gosto de suas clientes e sabia exatamente o que elas precisavam para se sentir confiantes e bem-sucedidas em suas atividades físicas. O boca a boca logo fez a loja se tornar um ponto de referência na cidade, e Gabriela, com seu carisma e dedicação, conquistou um público fiel.
+
+Porém, a empresária sabia que a evolução era inevitável. As vendas por WhatsApp estavam crescendo, mas o alcance ainda era limitado. Ela queria que a Lumini chegasse a mais lugares, que as mulheres de todo o Brasil pudessem descobrir as peças incríveis da loja sem precisar viajar até Uba. Foi então que, em busca de uma solução, ela se deparou com a Tecnocore.
+
+A Tecnocore se mostrou a parceira ideal para esse salto digital. Com um time especializado em e-commerce e design de lojas virtuais, a Tecnocore ajudou Gabriela a criar uma plataforma online moderna, fácil de usar e visualmente deslumbrante. O objetivo era simples: tornar a Lumini uma referência no mercado online de roupas de academia, com uma experiência de compra impecável e eficiente.
+
+A parceria entre Gabriela e a Tecnocore começou com a criação de um site perfeito para o estilo da Lumini. Cada detalhe foi pensado para refletir a essência da loja: um espaço online acolhedor, que transmitisse a sensação de estar em um lugar especial. A navegação era intuitiva, as imagens das roupas eram de alta qualidade e, claro, a plataforma foi otimizada para ser acessada de qualquer dispositivo.
+
+Logo, as clientes começaram a perceber a diferença. Com um design que combinava praticidade e elegância, o novo e-commerce da Lumini oferecia uma experiência de compra fácil e segura. A Tecnocore ainda se encarregou de otimizar a loja para dispositivos móveis, garantindo que a Gabriela conseguisse atender as clientes de qualquer lugar, a qualquer hora.
+
+Em pouco tempo, a Lumini viu um crescimento expressivo nas vendas online. Não só as clientes de Uba, mas de várias outras cidades de Minas Gerais e até de outros estados começaram a descobrir a loja. O perfil no Instagram da Lumini bombou com os posts de clientes usando as roupas da loja, e a Gabriela, orgulhosa, viu como a Tecnocore havia ajudado a colocar sua marca no mapa nacional.
+
+Hoje, a Lumini é muito mais que uma loja de roupas de academia. Ela é um símbolo de transformação e empoderamento feminino, com roupas que acompanham a mulher moderna, tanto nos treinos quanto no dia a dia. A loja online, criada com a ajuda da Tecnocore, continua crescendo e encantando clientes que buscam qualidade, estilo e conforto. E Gabriela, com o coração cheio de gratidão, sabe que sua jornada de sucesso está apenas começando.
+
 ## WHY?
 
 # Quem usara o sistema?
