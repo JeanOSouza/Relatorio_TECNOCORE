@@ -29,8 +29,6 @@ A parceria entre Gabriela e a Tecnocore começou com a criação de um site perf
 
 Logo, as clientes começaram a perceber a diferença. Com um design que combinava praticidade e elegância, o novo e-commerce da Lumini oferecia uma experiência de compra fácil e segura. A Tecnocore ainda se encarregou de otimizar a loja para dispositivos móveis, garantindo que a Gabriela conseguisse atender as clientes de qualquer lugar, a qualquer hora.
 
-Em pouco tempo, a Lumini viu um crescimento expressivo nas vendas online. Não só as clientes de Uba, mas de várias outras cidades de Minas Gerais e até de outros estados começaram a descobrir a loja. O perfil no Instagram da Lumini bombou com os posts de clientes usando as roupas da loja, e a Gabriela, orgulhosa, viu como a Tecnocore havia ajudado a colocar sua marca no mapa nacional.
-
 Hoje, a Lumini é muito mais que uma loja de roupas de academia. Ela é um símbolo de transformação e empoderamento feminino, com roupas que acompanham a mulher moderna, tanto nos treinos quanto no dia a dia. A loja online, criada com a ajuda da Tecnocore, continua crescendo e encantando clientes que buscam qualidade, estilo e conforto. E Gabriela, com o coração cheio de gratidão, sabe que sua jornada de sucesso está apenas começando.
 
 ## WHY?
