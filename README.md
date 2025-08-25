@@ -65,7 +65,7 @@ Maria Cecília nunca mais precisou se preocupar em encontrar um tempo para ir à
 # Usuário 2 – Marcela
 
 <p align="center"> 
-<img src="![./Marcela.jpg](img/Documents/Marcela.jpg)">
+<img src="img/Documents/Marcela.jpg">
 </p>
 <p align="center">Figura 3- Marcela </p>
 
