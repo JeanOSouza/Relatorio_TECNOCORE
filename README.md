@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="./logo.jpg">
+<img src="\img\Documents\logo.jpg">
 </p>
 <p align="center">Figura 1- Logo da Empresa</p>
 
@@ -47,7 +47,7 @@ A partir das hipóteses, da análise de histórias e da pesquisa com usuários, 
 # Usuário 1 – Maria Cecilia
 
 <p align="center"> 
-<img src="./Maria Cecilia.jpg">
+<img src="img/Documents/Maria Cecilia.jpg">
 </p>
 <p align="center">Figura 2- Maria Cecilia </p>
 
@@ -65,7 +65,7 @@ Maria Cecília nunca mais precisou se preocupar em encontrar um tempo para ir à
 # Usuário 2 – Marcela
 
 <p align="center"> 
-<img src="./Marcela.jpg">
+<img src="![./Marcela.jpg](img/Documents/Marcela.jpg)">
 </p>
 <p align="center">Figura 3- Marcela </p>
 
@@ -82,14 +82,14 @@ No fim do dia, a jovem universitária entende que seu equilíbrio é uma escolha
 Com o objetivo de compreender as necessidades e os desafios dos usuários, colocando-se na perspectiva deles, foi elaborado um mapa de empatia com base nas personas desenvolvidas.
 
 <p align="center"> 
-<img src="2.jpg">
+<img src="img/Documents/2.jpg">
 </p>
 <p align="center">Figura 4- Mapa de Empatia da Maria Cecilia</p>
 
 Maria Cecília busca praticidade nas compras online de roupas de treino, influenciada por propagandas sobre tecnologias nos tecidos e recomendações de colegas sobre conforto e durabilidade. Com uma rotina intensa, ela tem pouco tempo para pesquisar e valoriza a agilidade nas compras. Ela troca informações sobre novidades com amigos e ainda considera importante experimentar as roupas antes de comprar, priorizando qualidade, conforto e aparência. Além disso, deseja equilibrar uma vida saudável com mais tempo para a família.
 
 <p align="center"> 
-<img src="5.jpg">
+<img src="img/Documents/5.jpg">
 </p>
 <p align="center">Figura 5- Mapa de Empatia da Marcela</p>
 
@@ -104,7 +104,7 @@ Para a identidade visual do sistema usamos a própria logo usada pela empresa LU
 Para criar um e-commerce que atendesse às necessidades da Lumini e ao mesmo tempo proporcionasse uma experiência de compra excelente para as clientes, a Tecnocore focou em dois tipos essenciais de requisitos: funcionais e não funcionais. Cada escolha foi feita com base nas necessidades do negócio, no público-alvo e nas melhores práticas do mercado digital.
 
 <p align="center"> 
-<img src="./tabelasderequisitos-_1_.jpg">
+<img src="img/Documents/tabelasderequisitos-_1_.jpg">
 </p>
 <p align="center">Figura 5- Mapa de Empatia da Marcela</p>
 
@@ -117,7 +117,7 @@ Levando em consideração os requisitos e as referências fornecidas, criamos um
 # Wireframe Completo
 
 <p align="center"> 
-<img src="pro.jpg">
+<img src="img/Documents/pro.jpg">
 </p>
 <p align="center">Figura 6- Prototipo</p>
 
@@ -126,7 +126,7 @@ O wireframe desenvolvido visa oferecer uma visão estruturada e funcional do sit
 # A segunda página da prototipação
 
 <p align="center"> 
-<img src="pro.jpg">
+<img src="img/Documents/pro2.jpg">
 </p>
 <p align="center">Figura 7- Prototiopo</p>
 
